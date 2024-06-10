@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lavender;
+    padding: 60px 60px 60px 60px;
+  }
+  
+  .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-radius: 20px;
+    max-width: 550px;
+    margin: 0 auto 0 auto;
+    
+  }
+  
+  #guess{
+    margin-bottom: 10px;
+  }
+  
+  button{
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  #feedback{
+    font-size: small;
+  }
